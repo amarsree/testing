@@ -2,5 +2,6 @@ this is the line one
 
 new line
 
+working in a new branch
 
 head is in new branch
